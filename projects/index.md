@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CS 231 - Autumn 2023
-subtitle: Digital Logic Design and Computer Architecture Lab
+title: Projects
+# subtitle: Digital Logic Design and Computer Architecture Lab
 ---
 
 ## Spring 2023
