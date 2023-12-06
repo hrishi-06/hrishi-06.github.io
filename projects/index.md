@@ -11,3 +11,5 @@ title: Projects
 - Used Prime+Probe to implement proof of concept spectre attack without having any shared memory between attacker and victim 
 
 [**SigmaZero - RL based Chess Engine**](./spring-2023/sigmazero/)
+- Implemented a chess engine inspired from AlphaZero
+- Used C++ backend interfaced with Python for Monte Carlo Tree Search algorithm
