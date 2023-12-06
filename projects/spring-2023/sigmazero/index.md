@@ -18,7 +18,7 @@ Will be updated soon!
 [Github Repo](https://github.com/prerak-123/SigmaZero)
 
 ### Contributors
-Prerak Contractor <br/>
-Kartik Nair <br/>
-Aditya Yadav <br/>
-Rayane Tayache <br/>
+[Prerak Contractor](https://github.com/prerak-123) <br/>
+[Kartik Nair](https://github.com/k-rt-k) <br/>
+[Aditya Yadav](https://github.com/AdityaYadav793) <br/>
+[Rayane Tayache](https://github.com/Rayane-T) <br/>
