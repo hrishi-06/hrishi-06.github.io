@@ -71,6 +71,9 @@ Prime and probe is done on L1D cache here. This is
 possible due to the fact that attacker and victim reside in
 the same process.
 
+### Papers
+[Spectre](https://ieeexplore.ieee.org/document/8835233)
+
 ### Links
 [Report](./report.pdf) <br/>
 [Github Repo](https://github.com/khushangsingla/The-UNSHARED-Spectre)
