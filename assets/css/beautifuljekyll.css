@@ -155,6 +155,13 @@ img {
   font-size: 1.125rem;
 }
 
+.navbar-custom .navbar-brand-mobile {
+  line-height: 1.5;
+  padding-top: 0.625rem;
+  padding-bottom: 0.625rem;
+  font-size: 1.125rem;
+}
+
 .navbar-custom .navbar-brand-logo {
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
@@ -193,6 +200,7 @@ img {
 }
 
 .navbar-custom .navbar-brand,
+.navbar-custom .navbar-brand-mobile,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
   color: {{ site.navbar-text-col | default: "#404040" }};
@@ -1088,5 +1096,23 @@ pre {
   }
   #nav-search-text {
     display: inline-block;
+  }
+}
+
+@media (max-width: 700px) {
+  .navbar-brand{
+    display: none;
+  }
+  .navbar-brand-mobile{
+    display: block;
+  }
+}
+
+@media (min-width: 700px) {
+  .navbar-brand{
+    display: block;
+  }
+  .navbar-brand-mobile{
+    display: none;
   }
 }
