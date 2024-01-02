@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['u_1349',['u',['../classgentry.html#aac0076667fd8a57d0a0aa32d3beab812',1,'gentry::u()'],['../classmy__predictor_1_1gentry.html#a54511bb821144db8c3d23ebd84662fdb',1,'my_predictor::gentry::u()'],['../classmy__predictor_1_1regionentry.html#a7fb9dbad2f27cfd78ab7bec7fe3b1254',1,'my_predictor::regionentry::u()']]],
+  ['ul_5fdependent_5fdefaults_1350',['ul_dependent_defaults',['../namespaceconfig_1_1defaults.html#a908d5b3bcfaf06e6b05d339cfaef1176',1,'config::defaults']]],
+  ['underflow_1351',['underflow',['../classchampsim_1_1inf__istream_1_1inf__streambuf.html#a23744e61ba432626f0e8e5d8fa825531',1,'champsim::inf_istream::inf_streambuf']]],
+  ['underlying_1352',['underlying',['../structchampsim_1_1inf__istream.html#a3dc09875d19006b3a3b879ae0cca99a3',1,'champsim::inf_istream']]],
+  ['update_1353',['update',['../classfolded__history.html#a86b8d0547871b7b1ad5bdc34dc341729',1,'folded_history::update()'],['../classBasicBTB.html#a4910fa75fda0b9a4e79038b8b4cb38b6',1,'BasicBTB::update()'],['../classmy__predictor_1_1folded__history.html#a5cd323ecd37e6f511c0eddf7f4b4e4cb',1,'my_predictor::folded_history::update()'],['../classRAS.html#acc0ebcfda0ba81d705296ba7c3c58072',1,'RAS::update()']]],
+  ['update_5fbrindirect_1354',['update_brindirect',['../classmy__predictor.html#a3b35e11ab8bbce00ed31537699dc35a9',1,'my_predictor']]],
+  ['update_5fentry_1355',['update_entry',['../classspp_1_1GLOBAL__REGISTER.html#a7401ec1ed43e1aa34e3e9607b510e826',1,'spp::GLOBAL_REGISTER']]],
+  ['update_5flru_1356',['update_lru',['../classBasicBTB.html#a7d962d27bf60ed2c9500da30c2e0a8a2',1,'BasicBTB']]],
+  ['update_5fpattern_1357',['update_pattern',['../classspp_1_1PATTERN__TABLE.html#a22360a935bf08c5a4978b915fe2b8274',1,'spp::PATTERN_TABLE']]],
+  ['updatepredictor_1358',['UpdatePredictor',['../classPREDICTOR.html#ac4db7b1581966ef71e8a7de4d233a6b2',1,'PREDICTOR']]],
+  ['updatespecium_1359',['UpdateSpecIUM',['../classmy__predictor.html#ad3625767e44327932b0cb021da57e527',1,'my_predictor']]],
+  ['updatethreshold_1360',['updatethreshold',['../tage__sc__l_8cc.html#ad1dd35271bfc441599857ca1d1b17fa4',1,'tage_sc_l.cc']]],
+  ['upper_5flevels_1361',['upper_levels',['../classCACHE.html#af481d8b5e2c96fb1edc999f0d11a5588',1,'CACHE::upper_levels()'],['../classPageTableWalker.html#a9508d73e82791ec1c1898510bb2876dd',1,'PageTableWalker::upper_levels()'],['../classCACHE_1_1Builder.html#a98d3ed8496dac8d1b893e2c36d382b72',1,'CACHE::Builder::upper_levels()'],['../classPageTableWalker_1_1Builder.html#a4b3ef03e7c43ec718bbfd21ae7088e1b',1,'PageTableWalker::Builder::upper_levels()']]],
+  ['upper_5flevels_5ffor_1362',['upper_levels_for',['../namespaceconfig_1_1util.html#a52919ee917244be859b690d7bdac0985',1,'config::util']]],
+  ['upperlevelsfortests_1363',['UpperLevelsForTests',['../classpython_1_1test__util_1_1UpperLevelsForTests.html',1,'python::test_util']]],
+  ['use_5falt_5fon_5fna_1364',['use_alt_on_na',['../tage__sc__l_8cc.html#ab6195bbf6ffcc298b643eb941bf45234',1,'tage_sc_l.cc']]],
+  ['use_5falt_5fon_5fna_1365',['USE_ALT_ON_NA',['../classmy__predictor.html#a2ccf32344fdcfef386cedaa61b5521fc',1,'my_predictor']]],
+  ['useful_1366',['useful',['../classspp_1_1PREFETCH__FILTER.html#a3879d0008fb78d986495069c6634a55e',1,'spp::PREFETCH_FILTER']]],
+  ['useful_5fprefetch_1367',['useful_prefetch',['../structtest_1_1pref__cache__operate__interface.html#a550ac34e8d5346c459f04aa826fecd57',1,'test::pref_cache_operate_interface']]],
+  ['util_2epy_1368',['util.py',['../util_8py.html',1,'']]],
+  ['util_5fbits_5fh_1369',['UTIL_BITS_H',['../util_2bits_8h.html#a3fc9064c9c29630d05a87c7a3531bc21',1,'bits.h']]],
+  ['util_5fh_1370',['UTIL_H',['../util_2lru__table_8h.html#ab41e2a6ec010e74422c6618274795044',1,'lru_table.h']]],
+  ['uut_1371',['uut',['../structmerge__testbed.html#a8e5dffbbd3fc0beab6f00340f7661b6c',1,'merge_testbed']]],
+  ['uwidth_1372',['UWIDTH',['../tage__sc__l_8cc.html#a3e8b9baab73ab4edc5ad935654ae0f80',1,'tage_sc_l.cc']]]
+];

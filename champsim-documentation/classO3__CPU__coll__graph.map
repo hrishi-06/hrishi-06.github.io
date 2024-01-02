@@ -1,0 +1,12 @@
+<map id="O3_CPU" name="O3_CPU">
+<area shape="rect" id="node1" title=" " alt="" coords="875,167,949,193"/>
+<area shape="rect" id="node2" href="$classchampsim_1_1operable.html" title=" " alt="" coords="300,5,455,32"/>
+<area shape="rect" id="node9" href="$classCACHE.html" title=" " alt="" coords="650,77,717,104"/>
+<area shape="rect" id="node3" href="$classchampsim_1_1msl_1_1lru__table.html" title=" " alt="" coords="604,217,763,273"/>
+<area shape="rect" id="node4" href="$structO3__CPU_1_1dib__shift.html" title=" " alt="" coords="309,237,446,264"/>
+<area shape="rect" id="node5" href="$structcpu__stats.html" title=" " alt="" coords="641,297,725,324"/>
+<area shape="rect" id="node6" href="$classCacheBus.html" title=" " alt="" coords="640,167,727,193"/>
+<area shape="rect" id="node7" href="$classchampsim_1_1channel.html" title=" " alt="" coords="303,155,452,181"/>
+<area shape="rect" id="node8" href="$structchampsim_1_1cache__queue__stats.html" title=" " alt="" coords="5,147,188,189"/>
+<area shape="rect" id="node10" href="$structcache__stats.html" title=" " alt="" coords="328,72,427,99"/>
+</map>

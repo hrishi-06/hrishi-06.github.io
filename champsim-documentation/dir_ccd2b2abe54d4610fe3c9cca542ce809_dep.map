@@ -1,0 +1,16 @@
+<map id="test/cpp/modules/prefetcher" name="test/cpp/modules/prefetcher">
+<area shape="rect" id="node2" href="dir_b3a1c5ed342e21991ba45f43e2db076b.html" title="address_collector" alt="" coords="37,63,173,111"/>
+<area shape="rect" id="node6" href="dir_bfccd401955b95cf8c75461437045ac0.html" title="inc" alt="" coords="404,255,476,303"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000034_000012.html" title="1" alt="" coords="387,233,397,248"/>
+<area shape="rect" id="node3" href="dir_e39416a3c3972f1b0b61301a25e99521.html" title="metadata_collector" alt="" coords="198,63,346,111"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000035_000012.html" title="1" alt="" coords="409,228,419,243"/>
+<area shape="rect" id="node4" href="dir_2eaf443b58cda38bc1c3d35833ec650b.html" title="metadata_emitter" alt="" coords="370,63,510,111"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000036_000012.html" title="1" alt="" coords="444,229,453,244"/>
+<area shape="rect" id="node5" href="dir_9ec394f8838111b867b364f7364d1e9b.html" title="prefetch_hit_collector" alt="" coords="535,63,697,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000037_000012.html" title="1" alt="" coords="475,240,485,254"/>
+<area shape="rect" id="node7" href="dir_ec8f0bfa7fdadfcc06ea5c771d837a1c.html" title="src" alt="" coords="567,159,639,207"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000037_000039.html" title="1" alt="" coords="612,134,622,149"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000039_000012.html" title="106" alt="" coords="483,248,509,262"/>
+<area shape="rect" id="clust2" href="dir_ccd2b2abe54d4610fe3c9cca542ce809.html" alt="" coords="27,52,823,121"/>
+<area shape="rect" id="clust1" href="dir_5af99df572ed9737c30e134e5ba83e3d.html" title="modules" alt="" coords="16,16,833,132"/>
+</map>

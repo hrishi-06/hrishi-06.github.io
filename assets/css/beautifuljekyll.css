@@ -1104,13 +1104,13 @@ pre {
     display: none;
   }
   .navbar-brand-mobile{
-    display: block;
+    display: inline-block;
   }
 }
 
 @media (min-width: 700px) {
   .navbar-brand{
-    display: block;
+    display: inline-block;
   }
   .navbar-brand-mobile{
     display: none;

@@ -1,0 +1,14 @@
+var instruction_8h =
+[
+    [ "ooo_model_instr", "structooo__model__instr.html", "structooo__model__instr" ],
+    [ "branch_type", "instruction_8h.html#a8e3c9ad09efe21bf2f8b83cba460bc5e", [
+      [ "NOT_BRANCH", "instruction_8h.html#a8e3c9ad09efe21bf2f8b83cba460bc5ea37ba3a91043a48f2aef8a78806194515", null ],
+      [ "BRANCH_DIRECT_JUMP", "instruction_8h.html#a8e3c9ad09efe21bf2f8b83cba460bc5ea744bb3f4ca2fe2560c365a6c727177da", null ],
+      [ "BRANCH_INDIRECT", "instruction_8h.html#a8e3c9ad09efe21bf2f8b83cba460bc5eae5e75f5730c30b38e3d5e3398bab6b10", null ],
+      [ "BRANCH_CONDITIONAL", "instruction_8h.html#a8e3c9ad09efe21bf2f8b83cba460bc5eacfd0d336eece485adcd2708e1f8bb5ea", null ],
+      [ "BRANCH_DIRECT_CALL", "instruction_8h.html#a8e3c9ad09efe21bf2f8b83cba460bc5ea81be858e590c9840eca00415668e14d2", null ],
+      [ "BRANCH_INDIRECT_CALL", "instruction_8h.html#a8e3c9ad09efe21bf2f8b83cba460bc5ea089c56d2c14fd417e6a80d2d72bba2bb", null ],
+      [ "BRANCH_RETURN", "instruction_8h.html#a8e3c9ad09efe21bf2f8b83cba460bc5eaa759c32ea11b14b10ca5e6244aae5446", null ],
+      [ "BRANCH_OTHER", "instruction_8h.html#a8e3c9ad09efe21bf2f8b83cba460bc5ea259d61a721ccc384ffe9fec9a1b456db", null ]
+    ] ]
+];

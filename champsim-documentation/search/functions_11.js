@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['range_5fprint_5fdeadlock_2039',['range_print_deadlock',['../namespacechampsim.html#a2cec92e62f55caafdb0fca67e47aed31',1,'champsim']]],
+  ['read_2040',['read',['../structchampsim_1_1inf__istream.html#a9e9a668de335a10ec8f39e4be12df189',1,'champsim::inf_istream']]],
+  ['read_5fand_5fupdate_5fsig_2041',['read_and_update_sig',['../classspp_1_1SIGNATURE__TABLE.html#a6e8478a328282c17fa4e21937411d830',1,'spp::SIGNATURE_TABLE']]],
+  ['read_5felement_5fname_2042',['read_element_name',['../namespaceconfig_1_1util.html#a0557ad491e86b58d8b8a3c5168a77a15',1,'config::util']]],
+  ['read_5fpattern_2043',['read_pattern',['../classspp_1_1PATTERN__TABLE.html#a8d390752d39b1dfe1637267782637d29',1,'spp::PATTERN_TABLE']]],
+  ['reader_5fmodel_2044',['reader_model',['../structchampsim_1_1tracereader_1_1reader__model.html#a26f4d6aa816ecc269e20e47397d202d4',1,'champsim::tracereader::reader_model']]],
+  ['regionentry_2045',['regionentry',['../classmy__predictor_1_1regionentry.html#aa67fc0abe25da18359a8922b55aa9e18',1,'my_predictor::regionentry']]],
+  ['reinit_2046',['reinit',['../classPREDICTOR.html#a083832030199a993f79bc0d5f9b8dbac',1,'PREDICTOR']]],
+  ['release_2047',['release',['../classrelease__MRC.html#a4ea1ceff61293b5c39e5611561dd9aa5',1,'release_MRC']]],
+  ['release_5fall_2048',['release_all',['../classrelease__MRC.html#a75e55bdd81c387e1fce5eede4b2daa68',1,'release_MRC']]],
+  ['release_5fmrc_2049',['release_MRC',['../classrelease__MRC.html#aae07e6f32477d8de931848d4b7d864d1',1,'release_MRC']]],
+  ['repeatable_2050',['repeatable',['../structchampsim_1_1repeatable.html#a981d160aee2c3ccffca1924a460353fb',1,'champsim::repeatable']]],
+  ['replacement_2051',['replacement',['../classCACHE_1_1Builder.html#a67e301021124408dae1ed3225d545c52',1,'CACHE::Builder']]],
+  ['request_5ftype_2052',['request_type',['../structDRAM__CHANNEL_1_1request__type.html#a43b8b1ab245ce18c969699d45494878c',1,'DRAM_CHANNEL::request_type']]],
+  ['reset_5fprefetch_5fas_5fload_2053',['reset_prefetch_as_load',['../classCACHE_1_1Builder.html#aab19527d325499a7fdaacf81c7e8e975',1,'CACHE::Builder']]],
+  ['reset_5fvirtual_5fprefetch_2054',['reset_virtual_prefetch',['../classCACHE_1_1Builder.html#a6ffbc6cf94b4f0e0ff71ab780716d50a',1,'CACHE::Builder']]],
+  ['reset_5fwq_5fchecks_5ffull_5faddr_2055',['reset_wq_checks_full_addr',['../classCACHE_1_1Builder.html#a6cf91c07312e419f8bbb3c3fa5206399',1,'CACHE::Builder']]],
+  ['response_2056',['response',['../structchampsim_1_1channel_1_1response.html#abdde85a58e69a25bb693785624de8e58',1,'champsim::channel::response::response(uint64_t addr, uint64_t v_addr, uint64_t data_, uint32_t pf_meta, std::vector&lt; std::reference_wrapper&lt; ooo_model_instr &gt;&gt; deps)'],['../structchampsim_1_1channel_1_1response.html#a6ec919e84e7d233dffdb85a10f4d31bd',1,'champsim::channel::response::response(request req)']]],
+  ['retire_5frob_2057',['retire_rob',['../classO3__CPU.html#aefd487ac3b63a6a326692ade0a9ed44b',1,'O3_CPU']]],
+  ['retire_5fwidth_2058',['retire_width',['../classO3__CPU_1_1Builder.html#a9bf5784fd0d2106b1cb4d62cf7787262',1,'O3_CPU::Builder']]],
+  ['rob_5fsize_2059',['rob_size',['../classO3__CPU_1_1Builder.html#a3c8fd3cf2f7ef9e44828270eda2dcf7d',1,'O3_CPU::Builder']]],
+  ['roi_5fcycle_2060',['roi_cycle',['../classO3__CPU.html#acfe93b766862d58f04235ee935935fd4',1,'O3_CPU']]],
+  ['roi_5finstr_2061',['roi_instr',['../classO3__CPU.html#aaed505aa01b2be96c704449bcbb0999f',1,'O3_CPU']]],
+  ['rq_5foccupancy_2062',['rq_occupancy',['../classchampsim_1_1channel.html#ae5f6e2492c6c3d52dfda7ebcd52930df',1,'champsim::channel']]],
+  ['rq_5fsize_2063',['rq_size',['../classchampsim_1_1channel.html#a462715a106d69801e05443cf094302c4',1,'champsim::channel']]]
+];

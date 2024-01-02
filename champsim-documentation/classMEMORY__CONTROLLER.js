@@ -1,0 +1,28 @@
+var classMEMORY__CONTROLLER =
+[
+    [ "channel_type", "classMEMORY__CONTROLLER.html#a4dd399298a7b4b62be46bd015b26e5ec", null ],
+    [ "request_type", "classMEMORY__CONTROLLER.html#ad21382907b26d333a7f54dddc698ea48", null ],
+    [ "response_type", "classMEMORY__CONTROLLER.html#a1f19adccb41645f6affdb5b47721967b", null ],
+    [ "MEMORY_CONTROLLER", "classMEMORY__CONTROLLER.html#af8c006486846a7abb3ebb73e698b50a9", null ],
+    [ "add_rq", "classMEMORY__CONTROLLER.html#ad2822094d0a0f475a4a9ce17e729472e", null ],
+    [ "add_wq", "classMEMORY__CONTROLLER.html#a23199b7e0a153b5b5a98656b71ded8d1", null ],
+    [ "begin_phase", "classMEMORY__CONTROLLER.html#a146863c8a71fbdab520f173cdb3099e5", null ],
+    [ "dram_get_bank", "classMEMORY__CONTROLLER.html#a989b8b579d9bf6d09c9c8e4121802168", null ],
+    [ "dram_get_channel", "classMEMORY__CONTROLLER.html#a8be6a032392352cebbfad7f13de547f3", null ],
+    [ "dram_get_column", "classMEMORY__CONTROLLER.html#ae40d9cbe416cd01fa5a67e5ce9813513", null ],
+    [ "dram_get_rank", "classMEMORY__CONTROLLER.html#a328c9b59f568b231a8d19c2202945780", null ],
+    [ "dram_get_row", "classMEMORY__CONTROLLER.html#afdbd1761877336aa4d10ca5bd6fe4420", null ],
+    [ "end_phase", "classMEMORY__CONTROLLER.html#a77ccf2acedc84419b2a7ab124a93394b", null ],
+    [ "initialize", "classMEMORY__CONTROLLER.html#ab608d7816ad9dd3b26e23ba6003658bb", null ],
+    [ "initiate_requests", "classMEMORY__CONTROLLER.html#ae4c44be4349f946d9f935de14ff89cc4", null ],
+    [ "operate", "classMEMORY__CONTROLLER.html#a6dff889149c71619d2c8881c3f720034", null ],
+    [ "print_deadlock", "classMEMORY__CONTROLLER.html#a3fc3dcfb493b979c8b7ddf21bb7e2349", null ],
+    [ "size", "classMEMORY__CONTROLLER.html#a012080d442a481dcc5693ad4a7bd9efc", null ],
+    [ "channels", "classMEMORY__CONTROLLER.html#a5e3c2229a8b5a258b58f455601a7602e", null ],
+    [ "DRAM_DBUS_RETURN_TIME", "classMEMORY__CONTROLLER.html#ae2df6e9deff60570ed9e797ca216324b", null ],
+    [ "DRAM_DBUS_TURN_AROUND_TIME", "classMEMORY__CONTROLLER.html#a57e0b51a1d365516470033fed1e4dc09", null ],
+    [ "queues", "classMEMORY__CONTROLLER.html#a02675f400d4702dd5bbaf30803dce6ae", null ],
+    [ "tCAS", "classMEMORY__CONTROLLER.html#a927f1491e33c8b0cf70d280997e7d831", null ],
+    [ "tRCD", "classMEMORY__CONTROLLER.html#afd82250fbdf76a7b6f9b2e82e0558656", null ],
+    [ "tRP", "classMEMORY__CONTROLLER.html#a92bd3a5885fa8191b92a1be365ada22e", null ]
+];

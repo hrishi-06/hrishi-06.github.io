@@ -1,0 +1,6 @@
+<map id="test/cpp/modules/prefetcher/address_collector" name="test/cpp/modules/prefetcher/address_collector">
+<area shape="rect" id="node1" href="dir_b3a1c5ed342e21991ba45f43e2db076b.html" title="address_collector" alt="" coords="27,52,163,100"/>
+<area shape="rect" id="node2" href="dir_bfccd401955b95cf8c75461437045ac0.html" title="inc" alt="" coords="59,148,131,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000034_000012.html" title="1" alt="" coords="98,122,108,137"/>
+<area shape="rect" id="clust1" href="dir_ccd2b2abe54d4610fe3c9cca542ce809.html" title="prefetcher" alt="" coords="16,16,173,111"/>
+</map>

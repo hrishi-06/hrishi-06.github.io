@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['name_2527',['name',['../structdram__stats.html#acd294996dccc6b2690beda96bcffab94',1,'dram_stats::name()'],['../structcpu__stats.html#a4910bb6ac08148f371cb0c5b5fe6d974',1,'cpu_stats::name()'],['../structchampsim_1_1phase__info.html#aa669f3829254e3e067a4e28311beec8a',1,'champsim::phase_info::name()'],['../structchampsim_1_1phase__stats.html#abcb6e9a24a2d4989943bdd996879916f',1,'champsim::phase_stats::name()']]],
+  ['name_2528',['NAME',['../classCACHE.html#a677946ec359a5d63efb5fca5d8f796cd',1,'CACHE::NAME()'],['../classPageTableWalker.html#aacd471bf55e06b98f309dd3805b31f9c',1,'PageTableWalker::NAME()']]],
+  ['name_2529',['name',['../structcache__stats.html#a813cbba6346c700a115556202cf1334d',1,'cache_stats']]],
+  ['nbiter_2530',['NbIter',['../classlentry.html#a94c20cae352d4e735f65b1cf454b7de0',1,'lentry']]],
+  ['next_5fppage_2531',['next_ppage',['../classVirtualMemory.html#a14116ea1cd417351cb285fd3561f344b',1,'VirtualMemory']]],
+  ['next_5fprint_5finstruction_2532',['next_print_instruction',['../classO3__CPU.html#ad4bf4f900d6e82f7cd5b1241f78d3f80',1,'O3_CPU']]],
+  ['next_5fpte_5fpage_2533',['next_pte_page',['../classVirtualMemory.html#a477d3a3b270a843a06b8a01dc275e8a6',1,'VirtualMemory']]],
+  ['noskip_2534',['NOSKIP',['../tage__sc__l_8cc.html#a500f0f7d362a172e2139fe8cd98909c5',1,'tage_sc_l.cc']]],
+  ['num_5fbase_5fupdate_5fuops_2535',['num_base_update_uops',['../classO3__CPU.html#a244acbbfc105e182953224773b3d9ba1',1,'O3_CPU']]],
+  ['num_5finstr_5fdestinations_2536',['NUM_INSTR_DESTINATIONS',['../trace__instruction_8h.html#a27b4eb73b09fa14bcceccab20c4d4051',1,'trace_instruction.h']]],
+  ['num_5finstr_5fdestinations_5fsparc_2537',['NUM_INSTR_DESTINATIONS_SPARC',['../trace__instruction_8h.html#a64023e08ebb6f5a2e4a44bc006fcf22f',1,'trace_instruction.h']]],
+  ['num_5finstr_5fsources_2538',['NUM_INSTR_SOURCES',['../trace__instruction_8h.html#a0e0288f38894fdce596a5c80a3bce3de',1,'trace_instruction.h']]],
+  ['num_5freg_5fdependent_2539',['num_reg_dependent',['../structooo__model__instr.html#acfcd2354271678083f05190b8382ac49',1,'ooo_model_instr']]],
+  ['num_5fretired_2540',['num_retired',['../classO3__CPU.html#af038f22c02b6f1dabc6de5319faf5aea',1,'O3_CPU']]],
+  ['num_5fset_2541',['NUM_SET',['../classCACHE.html#a27f929e7499b4380bb1eb137789ecc15',1,'CACHE::NUM_SET()'],['../classchampsim_1_1msl_1_1lru__table.html#ac657e7a4c109e25e91c10626f0a9e800',1,'champsim::msl::lru_table::NUM_SET()']]],
+  ['num_5fway_2542',['NUM_WAY',['../classCACHE.html#ab1d55261a8d0cf765fd90115c9a59679',1,'CACHE::NUM_WAY()'],['../classchampsim_1_1msl_1_1lru__table.html#a7e52b9f6b09efe2fcef8f475ef8d8075',1,'champsim::msl::lru_table::NUM_WAY()']]]
+];

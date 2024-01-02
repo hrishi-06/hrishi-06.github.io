@@ -1,0 +1,26 @@
+var classPageTableWalker_1_1Builder =
+[
+    [ "add_pscl", "classPageTableWalker_1_1Builder.html#ae5b015ec900a244ea9d6ba2a95a5ce2c", null ],
+    [ "cpu", "classPageTableWalker_1_1Builder.html#a44ecb5f80e305111eeac8d56327f483f", null ],
+    [ "fill_bandwidth", "classPageTableWalker_1_1Builder.html#ad80395af92c9d6732dd9182d4ca084d3", null ],
+    [ "frequency", "classPageTableWalker_1_1Builder.html#a9f7a13da384d112a98933a065f632297", null ],
+    [ "latency", "classPageTableWalker_1_1Builder.html#a37f132d4b6b07e15c6305653044a3f67", null ],
+    [ "lower_level", "classPageTableWalker_1_1Builder.html#adbd4129abe31875359a4fbb39700cbd0", null ],
+    [ "mshr_size", "classPageTableWalker_1_1Builder.html#a97f02fb2e7966193bbe4ae07a848f7b2", null ],
+    [ "name", "classPageTableWalker_1_1Builder.html#a85e8a3d173ccf0b7a60368737a83281d", null ],
+    [ "tag_bandwidth", "classPageTableWalker_1_1Builder.html#af59e76309b407b824f415e18515d9df0", null ],
+    [ "upper_levels", "classPageTableWalker_1_1Builder.html#a4b3ef03e7c43ec718bbfd21ae7088e1b", null ],
+    [ "virtual_memory", "classPageTableWalker_1_1Builder.html#a6a6b8eaf25f4935f3405a4c2062bba5a", null ],
+    [ "PageTableWalker", "classPageTableWalker_1_1Builder.html#aad31b654ca7e8a7bc1cee7dc8266b251", null ],
+    [ "m_cpu", "classPageTableWalker_1_1Builder.html#a94a1d6c24eba2968f9e0bb2f22a4027d", null ],
+    [ "m_freq_scale", "classPageTableWalker_1_1Builder.html#a4f98084c4fafa264343960daaa940e49", null ],
+    [ "m_latency", "classPageTableWalker_1_1Builder.html#a10cc735adec9f17ebfe46eb0771d9e5a", null ],
+    [ "m_ll", "classPageTableWalker_1_1Builder.html#aec34884a25780d9cc894258c4a2c5e99", null ],
+    [ "m_max_fill", "classPageTableWalker_1_1Builder.html#a30bb8fdfa3339913b0ce461442f88ebb", null ],
+    [ "m_max_tag_check", "classPageTableWalker_1_1Builder.html#a37e8361c79ff1e0a29b93bbe28db59b4", null ],
+    [ "m_mshr_size", "classPageTableWalker_1_1Builder.html#adbb174e2cccea1e4c6b4265b9abd4ac9", null ],
+    [ "m_name", "classPageTableWalker_1_1Builder.html#a2996dab440c6c3b281adc9f60b4972dc", null ],
+    [ "m_pscl", "classPageTableWalker_1_1Builder.html#a94e2eeaee371b03d7293854a15584ec4", null ],
+    [ "m_uls", "classPageTableWalker_1_1Builder.html#ac770b0b8d1276e3e4af1889150a07285", null ],
+    [ "m_vmem", "classPageTableWalker_1_1Builder.html#a7a1a832a1c0c771cd69b265e3a363c61", null ]
+];

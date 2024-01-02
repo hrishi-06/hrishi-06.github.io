@@ -1,0 +1,48 @@
+var cvp2champsim_8cc =
+[
+    [ "trace", "structtrace.html", "structtrace" ],
+    [ "CAT_PATH", "cvp2champsim_8cc.html#a841e67f5500810d2a0e924bc01e493db", null ],
+    [ "GZIP_PATH", "cvp2champsim_8cc.html#a05b0574987b2c073765ca513b9de3692", null ],
+    [ "UINT64", "cvp2champsim_8cc.html#a3a206425f9cab93c58d2981b5624e304", null ],
+    [ "XZ_PATH", "cvp2champsim_8cc.html#a93639a578c177ad3a654546afae72fbb", null ],
+    [ "trace_instr_format", "cvp2champsim_8cc.html#afecde7cebeb9047532e6e097588b05e3", null ],
+    [ "InstClass", "cvp2champsim_8cc.html#a5e9eb919c989a64164a8f5a447f7fed6", [
+      [ "aluInstClass", "cvp2champsim_8cc.html#a5e9eb919c989a64164a8f5a447f7fed6a8d4ede0f64b4743b245091657f8b618d", null ],
+      [ "loadInstClass", "cvp2champsim_8cc.html#a5e9eb919c989a64164a8f5a447f7fed6a67dd4180a230baaddc33a8e605234572", null ],
+      [ "storeInstClass", "cvp2champsim_8cc.html#a5e9eb919c989a64164a8f5a447f7fed6a4f7871e0fd0d725bf20cde94ebce12f7", null ],
+      [ "condBranchInstClass", "cvp2champsim_8cc.html#a5e9eb919c989a64164a8f5a447f7fed6ac3044cd1aef3091907abdf6bdc1ce557", null ],
+      [ "uncondDirectBranchInstClass", "cvp2champsim_8cc.html#a5e9eb919c989a64164a8f5a447f7fed6a641c17a260e8ff9319e3a90d0585277c", null ],
+      [ "uncondIndirectBranchInstClass", "cvp2champsim_8cc.html#a5e9eb919c989a64164a8f5a447f7fed6a8ebb443f982bce2da8974de66f1db836", null ],
+      [ "fpInstClass", "cvp2champsim_8cc.html#a5e9eb919c989a64164a8f5a447f7fed6ae176608e16726a25a04b1390ff19ae81", null ],
+      [ "slowAluInstClass", "cvp2champsim_8cc.html#a5e9eb919c989a64164a8f5a447f7fed6a6f3fadf70d5c716e2b8d655f428d63e7", null ],
+      [ "undefInstClass", "cvp2champsim_8cc.html#a5e9eb919c989a64164a8f5a447f7fed6a82e4a6bde55134c26fa09362886e1cbb", null ]
+    ] ],
+    [ "OpType", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969", [
+      [ "OPTYPE_OP", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969af16298757d88819ad3b92d0b0016b6ee", null ],
+      [ "OPTYPE_RET_UNCOND", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969aa773eb7831238241bc82ac754b13325c", null ],
+      [ "OPTYPE_JMP_DIRECT_UNCOND", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969a13549e051be81b642fdb3e0f226b242f", null ],
+      [ "OPTYPE_JMP_INDIRECT_UNCOND", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969a504ee501de452becf9c19fde3a4b55d9", null ],
+      [ "OPTYPE_CALL_DIRECT_UNCOND", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969ac7721935f20aac2c3c05d306809bed12", null ],
+      [ "OPTYPE_CALL_INDIRECT_UNCOND", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969ac716d7d5a9569f17ef6912950ebead99", null ],
+      [ "OPTYPE_RET_COND", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969af87bbeef5a373a3106e9d890766d2571", null ],
+      [ "OPTYPE_JMP_DIRECT_COND", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969a9dd0b62511427aad9c584202edebee09", null ],
+      [ "OPTYPE_JMP_INDIRECT_COND", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969ad4171c6a425f2fad69f118ea2ad4c438", null ],
+      [ "OPTYPE_CALL_DIRECT_COND", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969a135a9fc6bd0e0a809ca98acb880c9921", null ],
+      [ "OPTYPE_CALL_INDIRECT_COND", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969ac826274ab842cf5bbe495fd06ff3a7ee", null ],
+      [ "OPTYPE_ERROR", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969a9dea355130bdd511e386b4b90757aa66", null ],
+      [ "OPTYPE_MAX", "cvp2champsim_8cc.html#aa1aa1c6a8f3bbed5b167bc2d4511b969a0ba70d61bdd861ce3b88272d16016c32", null ]
+    ] ],
+    [ "is_branch", "cvp2champsim_8cc.html#a792173ef04602fd7d58773c6a791a720", null ],
+    [ "main", "cvp2champsim_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "open_trace_file", "cvp2champsim_8cc.html#a7934664e07d36ab4530412364efe1a6a", null ],
+    [ "preprocess_file", "cvp2champsim_8cc.html#ab6b7f467fc5d69b41594226f52e0cd2a", null ],
+    [ "transform", "cvp2champsim_8cc.html#af8fa20604d0b1f6887d8e707e2b41430", null ],
+    [ "branch_names", "cvp2champsim_8cc.html#ae02ab0172fe0aa7587c6feb95b42eb28", null ],
+    [ "bump_page", "cvp2champsim_8cc.html#a196d67e8798da9c56bf6153345a50466", null ],
+    [ "code_pages", "cvp2champsim_8cc.html#a18e0df32fbf329bcf17cbcb3439ee1db", null ],
+    [ "counts", "cvp2champsim_8cc.html#af3170c5c33ab69af97ed156b7e3e3ab4", null ],
+    [ "data_pages", "cvp2champsim_8cc.html#a81b01a866b4e7eb2e7d27704189de0c9", null ],
+    [ "remapped_pages", "cvp2champsim_8cc.html#a259738d4e2104ec4055de4b0ac188779", null ],
+    [ "tracefilename", "cvp2champsim_8cc.html#a50cafaa99801141fe930dac62b6fdb7b", null ],
+    [ "verbose", "cvp2champsim_8cc.html#ab3f078684998b83967d507d0f453f454", null ]
+];

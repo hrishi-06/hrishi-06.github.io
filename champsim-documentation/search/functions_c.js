@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['main_1963',['main',['../namespacechampsim.html#a1c46d7f633fbc80ab8d7871ff873655c',1,'champsim::main()'],['../main_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main():&#160;main.cc']]],
+  ['make_5fpart_1964',['make_part',['../namespaceconfig_1_1makefile.html#a383189ae59220957d2c668699b65773e',1,'config::makefile']]],
+  ['mangled_5fdeclarations_1965',['mangled_declarations',['../namespaceconfig_1_1modules.html#ad0c63f184333cfc878aef8d79779aa08',1,'config::modules']]],
+  ['mangled_5fprohibited_5fdefinitions_1966',['mangled_prohibited_definitions',['../namespaceconfig_1_1modules.html#a941f4518da78866b47b1feb9fbfc1bbb',1,'config::modules']]],
+  ['match_1967',['match',['../structStrideMatcher.html#a82bd3e867f8e522e2dcd6985683eb0bc',1,'StrideMatcher::match()'],['../structMonotonicallyIncreasingMatcher.html#a13558180a25d293f73d740324adac61c',1,'MonotonicallyIncreasingMatcher::match()'],['../structAdjDiffMatcher.html#af6d92e07785579d6d4d24bccd38cf083',1,'AdjDiffMatcher::match()'],['../structStrideMatcher.html#a82bd3e867f8e522e2dcd6985683eb0bc',1,'StrideMatcher::match()']]],
+  ['match_5fand_5fcheck_1968',['match_and_check',['../classchampsim_1_1msl_1_1lru__table.html#adb7d99adf367078c70a9bb1334653868',1,'champsim::msl::lru_table']]],
+  ['match_5ffunc_1969',['match_func',['../classchampsim_1_1msl_1_1lru__table.html#af6d028761d2c7827d5017f9610f794a1',1,'champsim::msl::lru_table']]],
+  ['memory_5fcontroller_1970',['MEMORY_CONTROLLER',['../classMEMORY__CONTROLLER.html#af8c006486846a7abb3ebb73e698b50a9',1,'MEMORY_CONTROLLER']]],
+  ['merge_1971',['merge',['../structCACHE_1_1mshr__type.html#a6bbea3f20ed8143c0dcab291b371c952',1,'CACHE::mshr_type']]],
+  ['merge_5ftestbed_1972',['merge_testbed',['../structmerge__testbed.html#a6b9bdffba4cca25b91f156a6fa3e2934',1,'merge_testbed']]],
+  ['mispredict_5fpenalty_1973',['mispredict_penalty',['../classO3__CPU_1_1Builder.html#a410d5fb8cb9bc64e7076dea847e83f9f',1,'O3_CPU::Builder']]],
+  ['module_5fmodel_1974',['module_model',['../structCACHE_1_1module__model.html#af05ea4dca61f5fec84328f5e41f2e476',1,'CACHE::module_model::module_model()'],['../structO3__CPU_1_1module__model.html#aa4a85bda27851170ce03303c3420ae71',1,'O3_CPU::module_model::module_model()']]],
+  ['module_5fopts_1975',['module_opts',['../namespaceconfig_1_1makefile.html#a480c9e5f2fb7d96b1800ccc993c0a0cc',1,'config::makefile']]],
+  ['mshr_5fsize_1976',['mshr_size',['../classPageTableWalker_1_1Builder.html#a97f02fb2e7966193bbe4ae07a848f7b2',1,'PageTableWalker::Builder::mshr_size()'],['../classCACHE_1_1Builder.html#a6e729dba0a0b6184f6f3bd7892c7bda4',1,'CACHE::Builder::mshr_size()']]],
+  ['mshr_5ftype_1977',['mshr_type',['../structPageTableWalker_1_1mshr__type.html#a66a0a1294aa47737973abcb9cd820b73',1,'PageTableWalker::mshr_type::mshr_type()'],['../structCACHE_1_1mshr__type.html#a93d0f63945242f9124349810600eb579',1,'CACHE::mshr_type::mshr_type()']]],
+  ['my_5fpredictor_1978',['my_predictor',['../classmy__predictor.html#a4c77eb4b95aa891760e140b8161d6d94',1,'my_predictor']]],
+  ['myrandom_1979',['MYRANDOM',['../classmy__predictor.html#a91112dc020e4699842c27038ca08cfd9',1,'my_predictor::MYRANDOM()'],['../classPREDICTOR.html#aa85f6a9479a80b6f6ee3bd119bacd787',1,'PREDICTOR::MYRANDOM()']]]
+];

@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['handle_5ffill_525',['handle_fill',['../classCACHE.html#a391c1c17b56ca36f420d3008ba2e5b4a',1,'CACHE::handle_fill()'],['../classPageTableWalker.html#aff3dff05c06ed9e4bb801239c9a4a18e',1,'PageTableWalker::handle_fill()']]],
+  ['handle_5fmemory_5freturn_526',['handle_memory_return',['../classO3__CPU.html#a754c6b399e98f92af95256d447ec3f2b',1,'O3_CPU']]],
+  ['handle_5fmiss_527',['handle_miss',['../classCACHE.html#a5604d996a7478bdb0a1a83cb39b95779',1,'CACHE']]],
+  ['handle_5fread_528',['handle_read',['../classPageTableWalker.html#acd96e6b39b7e7d96b6fac75a32244110',1,'PageTableWalker']]],
+  ['handle_5fwrite_529',['handle_write',['../classCACHE.html#a2fae52694473b37e9ad5b06b45543472',1,'CACHE']]],
+  ['has_5feof_530',['has_eof',['../structchampsim_1_1tracereader_1_1reader__model.html#a4894b76e7cb1fb40261702addd1981d3',1,'champsim::tracereader::reader_model']]],
+  ['hash_5fbit_531',['HASH_BIT',['../namespacespp.html#ae1206488cd69e764c552af639bfcc36d',1,'spp']]],
+  ['hashed_5fperceptron_2ecc_532',['hashed_perceptron.cc',['../hashed__perceptron_8cc.html',1,'']]],
+  ['highconf_533',['HighConf',['../tage__sc__l_8cc.html#a91c695c032d1a2060a1a07ea0bb0cb26',1,'tage_sc_l.cc']]],
+  ['histbufferlength_534',['HISTBUFFERLENGTH',['../ittage__64KB_8h.html#a72a12bfc3f8e34e361d1281e4c550c07',1,'HISTBUFFERLENGTH():&#160;ittage_64KB.h'],['../tage__sc__l_8cc.html#a72a12bfc3f8e34e361d1281e4c550c07',1,'HISTBUFFERLENGTH():&#160;tage_sc_l.cc']]],
+  ['historyupdate_535',['HistoryUpdate',['../classPREDICTOR.html#a5c91cb86ccb8a502d3c6a0224f8e15df',1,'PREDICTOR::HistoryUpdate()'],['../classmy__predictor.html#a7e10ba446010f108b68d5067f1f3292a',1,'my_predictor::HistoryUpdate()']]],
+  ['hit_536',['hit',['../structtest_1_1repl__update__interface.html#a07dac32758f9faeefd74023e086bcc84',1,'test::repl_update_interface']]],
+  ['hit_5flatency_537',['hit_latency',['../classCACHE_1_1Builder.html#a39574496e4546ea5f44984e3cb9ee4d8',1,'CACHE::Builder']]],
+  ['hit_5flatency_538',['HIT_LATENCY',['../classPageTableWalker.html#a8044d14a81238eda52c2bb3bd10a7165',1,'PageTableWalker::HIT_LATENCY()'],['../classCACHE.html#a0c3dec89dffe55649e0fa0d092681f04',1,'CACHE::HIT_LATENCY()']]],
+  ['hit_5flatency_539',['hit_latency',['../structmerge__testbed.html#aae549a4e67b4c64b1c900647894d7bd7',1,'merge_testbed']]],
+  ['hitbank_540',['HitBank',['../classmy__predictor.html#a067ebcaa8686da01bb5a0226254ba461',1,'my_predictor::HitBank()'],['../tage__sc__l_8cc.html#a5a65aed72f331eef0baaa3bda84fd2b3',1,'HitBank():&#160;tage_sc_l.cc']]],
+  ['hits_541',['hits',['../structcache__stats.html#a5a6fffa32cf3419a4647e8d6efda941c',1,'cache_stats']]],
+  ['hyst_542',['hyst',['../classbentry.html#a6caa02d892eb84660f004a9ccc41b047',1,'bentry']]],
+  ['hystshift_543',['HYSTSHIFT',['../tage__sc__l_8cc.html#a5d23132bc7d54638d8b038303aac08fc',1,'tage_sc_l.cc']]]
+];

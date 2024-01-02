@@ -1,0 +1,10 @@
+<map id="inc/tracereader.h" name="inc/tracereader.h">
+<area shape="rect" id="node1" title=" " alt="" coords="488,5,619,32"/>
+<area shape="rect" id="node2" href="$champsim_8cc.html" title=" " alt="" coords="5,87,136,114"/>
+<area shape="rect" id="node3" href="$main_8cc.html" title=" " alt="" coords="160,87,256,114"/>
+<area shape="rect" id="node4" href="$tracereader_8cc.html" title=" " alt="" coords="281,87,418,114"/>
+<area shape="rect" id="node5" href="$080-tracereader_8cc.html" title=" " alt="" coords="442,87,665,114"/>
+<area shape="rect" id="node6" href="$081-tracereader-instr-id_8cc.html" title=" " alt="" coords="689,80,895,121"/>
+<area shape="rect" id="node7" href="$082-branch-targets_8cc.html" title=" " alt="" coords="919,80,1094,121"/>
+<area shape="rect" id="node8" href="$084-tracereader-eof_8cc.html" title=" " alt="" coords="1119,80,1324,121"/>
+</map>

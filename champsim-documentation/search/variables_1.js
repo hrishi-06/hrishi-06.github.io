@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['access_5fcount_2209',['access_count',['../classchampsim_1_1msl_1_1lru__table.html#a2eb8588469c1e5abee0f22ffa778215d',1,'champsim::msl::lru_table']]],
+  ['access_5ftype_5fnames_2210',['access_type_names',['../channel_8h.html#aa92e6cbf20b53c637524564623009901',1,'channel.h']]],
+  ['active_5frequest_2211',['active_request',['../structDRAM__CHANNEL.html#ab0f8fb4c1cbbc8dd7b742d01808b7d60',1,'DRAM_CHANNEL']]],
+  ['addr_2212',['addr',['../structtest_1_1pref__cache__operate__interface.html#a21887abc1c36b2ce67f8f7ae7cb68857',1,'test::pref_cache_operate_interface']]],
+  ['address_2213',['address',['../structCACHE_1_1mshr__type.html#a94c1d0c9a2f0708c474683700f2bc0fe',1,'CACHE::mshr_type::address()'],['../structCACHE_1_1BLOCK.html#ad599c8f83676d0861d2d78daffd4ea34',1,'CACHE::BLOCK::address()'],['../structchampsim_1_1channel_1_1request.html#a55b0450c055f2f5af93ac22d01c18f11',1,'champsim::channel::request::address()'],['../structchampsim_1_1channel_1_1response.html#ab20b59f8eb3206c26c4e54f6e4c5f63e',1,'champsim::channel::response::address()'],['../structDRAM__CHANNEL_1_1request__type.html#a2ee9148504943f02bf440b60bef07c57',1,'DRAM_CHANNEL::request_type::address()'],['../structPageTableWalker_1_1mshr__type.html#a1960e8fdfff75e57c291045d26350806',1,'PageTableWalker::mshr_type::address()'],['../structCACHE_1_1tag__lookup__type.html#a2ca3983f72a7ad215849faf335e52ef2',1,'CACHE::tag_lookup_type::address()']]],
+  ['address_5ffill_5fcollector_2214',['address_fill_collector',['../namespacetest.html#a57a966e365c78bb83537489206c35f6c',1,'test']]],
+  ['address_5foperate_5fcollector_2215',['address_operate_collector',['../namespacetest.html#a928ce463e7100c12e6555df0815a0d09',1,'test']]],
+  ['address_5fthat_5fwill_5fhit_2216',['address_that_will_hit',['../structmerge__testbed.html#a964d36d0d64f5c5c0586c5f5b667f549',1,'merge_testbed']]],
+  ['addresses_2217',['addresses',['../classdo__nothing__MRC.html#a26ab8924c80a61218e3e94fec551d143',1,'do_nothing_MRC']]],
+  ['age_2218',['age',['../classlentry.html#aeee706cea53bd154520c3533ad5fed45',1,'lentry']]],
+  ['altbank_2219',['AltBank',['../tage__sc__l_8cc.html#a125bb4ba4c8c465524e66c16674af0bf',1,'AltBank():&#160;tage_sc_l.cc'],['../classmy__predictor.html#a6372e888f8ae3ce08fb0a605ba7e610a',1,'my_predictor::AltBank()']]],
+  ['altconf_2220',['AltConf',['../tage__sc__l_8cc.html#aa46fac186fca00f60564a038041db866',1,'tage_sc_l.cc']]],
+  ['alttaken_2221',['alttaken',['../tage__sc__l_8cc.html#a58360a3642fd65f530cacccf790ced91',1,'alttaken():&#160;tage_sc_l.cc'],['../classmy__predictor.html#a20562e63384d14c6a1612e07b7ac5023',1,'my_predictor::alttaken()']]],
+  ['args_5f_2222',['args_',['../structchampsim_1_1repeatable.html#a6561406dc19045618d473baf0f00300e',1,'champsim::repeatable']]],
+  ['asid_2223',['asid',['../structooo__model__instr.html#a4675c410ded85cdfbc453bfefd81a325',1,'ooo_model_instr::asid()'],['../structLSQ__ENTRY.html#a140c86ddf5f555ca363e7f5c99b74f04',1,'LSQ_ENTRY::asid()'],['../structPageTableWalker_1_1mshr__type.html#a5817d0c8717c854862531ef53633be6f',1,'PageTableWalker::mshr_type::asid()'],['../structcloudsuite__instr.html#a1cd85b86ec978f85202fffde36edd569',1,'cloudsuite_instr::asid()'],['../structDRAM__CHANNEL_1_1request__type.html#a49f82b1f7ffc9b2e55c8317218a383db',1,'DRAM_CHANNEL::request_type::asid()'],['../structchampsim_1_1channel_1_1request.html#a1f7dfd836f0a500750485f4e024db4ae',1,'champsim::channel::request::asid()'],['../structCACHE_1_1mshr__type.html#a9508ceefa71ea3b0737f6cda2cb67f98',1,'CACHE::mshr_type::asid()'],['../structCACHE_1_1tag__lookup__type.html#ad02097d0053a3e864c92df8b98fa7426',1,'CACHE::tag_lookup_type::asid()']]],
+  ['avg_5fmiss_5flatency_2224',['avg_miss_latency',['../structcache__stats.html#a08e97489bac9b92d37226c79ca5e0df8',1,'cache_stats']]]
+];

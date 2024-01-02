@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['warmup_2735',['warmup',['../classchampsim_1_1operable.html#a3464324490f33c24df3a11f4e30aa78b',1,'champsim::operable']]],
+  ['was_5fpredicted_5ftaken_2736',['was_predicted_taken',['../tage__sc__l_8cc.html#ab45b257e7029eb6f8dc38fe82cf8113d',1,'tage_sc_l.cc']]],
+  ['way_2737',['way',['../structtest_1_1repl__update__interface.html#a0bf529bba94ba5648c360a44702f99fb',1,'test::repl_update_interface']]],
+  ['wb_2738',['WB',['../tage__sc__l_8cc.html#ae24e4a70bb105b163213ed1f7a89ad19',1,'tage_sc_l.cc']]],
+  ['wg_2739',['WG',['../tage__sc__l_8cc.html#a38b53114ff9719855ab1e31259a67783',1,'tage_sc_l.cc']]],
+  ['which_2740',['which',['../structchampsim_1_1deadlock.html#a491307553a8d47426c0aaf69065e3744',1,'champsim::deadlock']]],
+  ['wi_2741',['WI',['../tage__sc__l_8cc.html#a5a4102be7f0af298fdea022351279225',1,'tage_sc_l.cc']]],
+  ['wim_2742',['WIM',['../tage__sc__l_8cc.html#a3f8fd3d700ec264bb3546ad57dd1171e',1,'tage_sc_l.cc']]],
+  ['withloop_2743',['WITHLOOP',['../tage__sc__l_8cc.html#a0c0b8a369c86239902d8975e009377ae',1,'tage_sc_l.cc']]],
+  ['wl_2744',['WL',['../tage__sc__l_8cc.html#a92ef9d67f1d525d2c41c680e3e4c2414',1,'tage_sc_l.cc']]],
+  ['wp_2745',['WP',['../tage__sc__l_8cc.html#aaf2c66cec8bb26548a974fa1bd663e8f',1,'tage_sc_l.cc']]],
+  ['wq_2746',['WQ',['../structDRAM__CHANNEL.html#a073802ecaefdad9d0d399c95c13b1827',1,'DRAM_CHANNEL::WQ()'],['../classchampsim_1_1channel.html#a5c0f714ecf8bc8bb412a4f13de4cf523',1,'champsim::channel::WQ()']]],
+  ['wq_5faccess_2747',['WQ_ACCESS',['../structchampsim_1_1cache__queue__stats.html#ad534ffa8e0710e047da6c99c7e1d8d4d',1,'champsim::cache_queue_stats']]],
+  ['wq_5fforward_2748',['WQ_FORWARD',['../structchampsim_1_1cache__queue__stats.html#a183d967abd0df2fa47299602fd753dda',1,'champsim::cache_queue_stats']]],
+  ['wq_5ffull_2749',['WQ_FULL',['../structdram__stats.html#ad1d5ffb09ca9976cab4178b806c01217',1,'dram_stats::WQ_FULL()'],['../structchampsim_1_1cache__queue__stats.html#a2f4b332f84217a8a7643d73893c0f2f2',1,'champsim::cache_queue_stats::WQ_FULL()']]],
+  ['wq_5fmerged_2750',['WQ_MERGED',['../structchampsim_1_1cache__queue__stats.html#ad3a53006092011455fde5f6786366a7a',1,'champsim::cache_queue_stats']]],
+  ['wq_5frow_5fbuffer_5fhit_2751',['WQ_ROW_BUFFER_HIT',['../structdram__stats.html#a9579ce7731f871fef0f30af991636f7f',1,'dram_stats']]],
+  ['wq_5frow_5fbuffer_5fmiss_2752',['WQ_ROW_BUFFER_MISS',['../structdram__stats.html#a30520319833442f67ad9d87000981ca0',1,'dram_stats']]],
+  ['wq_5fsize_2753',['WQ_SIZE',['../classchampsim_1_1channel.html#a2ebb6a0779b69334b4de13f77cc3c059',1,'champsim::channel']]],
+  ['wq_5fto_5fcache_2754',['WQ_TO_CACHE',['../structchampsim_1_1cache__queue__stats.html#aca598af2f0870175f2a6b680c0e2822a',1,'champsim::cache_queue_stats']]],
+  ['write_5fmode_2755',['write_mode',['../structDRAM__CHANNEL.html#afa9535ac94eaaff7c9ca410f08649fbb',1,'DRAM_CHANNEL']]],
+  ['ws_2756',['WS',['../tage__sc__l_8cc.html#a3cff7496144cab9b7810079dcaa80a1f',1,'tage_sc_l.cc']]],
+  ['wt_2757',['WT',['../tage__sc__l_8cc.html#a7d50aa55a506181168488f148c287f73',1,'tage_sc_l.cc']]]
+];
