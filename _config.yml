@@ -27,6 +27,7 @@ navbar-links:
   Research: "/research/"
   TAships: "/taships/"
   Hobbies: "/hobbies/"
+  More: "/more/"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
